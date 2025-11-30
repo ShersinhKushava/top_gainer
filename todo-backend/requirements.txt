@@ -1,4 +1,4 @@
-Django==5.2.8
+Django==4.2.11
 djangorestframework==3.15.1
 django-cors-headers==4.3.1
 django-celery-beat==2.5.0
